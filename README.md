@@ -21,6 +21,18 @@ UCI Machine Learning Repository – Student Performance Dataset.
 
 Source: https://archive.ics.uci.edu/dataset/320/student+performance
 
+### Dataset Attribution
+
+The dataset used in this project was obtained from the UCI Machine Learning Repository.
+
+**Original citation:**
+
+Cortez, P. (2008). Student Performance [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T.
+
+**Dataset license:** Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+The dataset is used in accordance with its licensing terms.
+
 ## Key Findings
 - Analysed 395 student records and 33 columns.
 - Found no missing values or duplicate rows.
